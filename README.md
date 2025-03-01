@@ -47,7 +47,26 @@ Enjoy the game and see how many rounds you can win against the computer!
 
 ---
 
-Game 3: Description of the game
+**3) Hangman Game**
+
+Welcome to the Hangman Game! This classic word-guessing game challenges you to uncover a hidden word by guessing its letters one at a time. Can you save the hangman by guessing the word correctly before you run out of attempts?
+
+**How to Play:**
+1. The game randomly selects a word from a predefined list.
+2. You need to guess the letters in the word within 7 attempts.
+3. Each incorrect guess will bring the hangman closer to being fully drawn.
+4. The game will display the current state of the hangman, the guessed word with blanks, and the letters you have already guessed.
+5. If you guess all the letters in the word before running out of attempts, you win! Otherwise, the game reveals the correct word after all attempts are used.
+
+**Features:**
+- Visual representation of the hangman stages to illustrate progress.
+- Input validation to ensure valid single-letter guesses.
+- Feedback on correct and incorrect guesses.
+- Option to play multiple rounds for extended fun.
+
+Enjoy the game and see if you can guess the word before the hangman is fully drawn!
+
+---
 
 ### How to Run:
 Clone the repository: git clone https://github.com/MustansirNisar/Python-Games.git
