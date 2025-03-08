@@ -81,11 +81,12 @@ Welcome to the Tic-Tac-Toe Game! This classic two-player game challenges you to 
    
 **Features:**
 
--Input validation to ensure valid and unoccupied positions.
--Real-time display of the game board after each move.
--Clear announcement of the winner or if the game ends in a tie.
--A friendly and engaging user experience.
--Enjoy the game and see if you can outsmart your opponent in this classic battle of wits!
+- Input validation to ensure valid and unoccupied positions.
+- Real-time display of the game board after each move.
+- Clear announcement of the winner or if the game ends in a tie.
+- A friendly and engaging user experience.
+  
+  Enjoy the game and see if you can outsmart your opponent in this classic battle of wits!
 
 ### How to Run:
 Clone the repository: git clone https://github.com/MustansirNisar/Python-Games.git
