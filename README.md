@@ -80,13 +80,12 @@ Welcome to the Tic-Tac-Toe Game! This classic two-player game challenges you to 
 5. If all 9 positions are filled without a winner, the game ends in a tie.
    
 **Features:**
-
 - Input validation to ensure valid and unoccupied positions.
 - Real-time display of the game board after each move.
 - Clear announcement of the winner or if the game ends in a tie.
 - A friendly and engaging user experience.
   
-  Enjoy the game and see if you can outsmart your opponent in this classic battle of wits!
+Enjoy the game and see if you can outsmart your opponent in this classic battle of wits!
 
 ### How to Run:
 Clone the repository: git clone https://github.com/MustansirNisar/Python-Games.git
