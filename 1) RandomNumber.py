@@ -10,7 +10,7 @@ def guess(x):
     while attempts < max_attempts:
         guess = input(f"Attempt {attempts + 1}/{max_attempts}: Guess a number between 1 and {x}: ")
         
-        # Input validation: check if the input is a number and within range
+        # check if the input is a number and within range
         if not guess.isdigit():
             print("Please enter a valid number.")
             continue
